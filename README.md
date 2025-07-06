@@ -18,6 +18,16 @@ EarthScope Vision is built to detect and map complex terrestrial and environment
 - **Multilingual Visual Map Labeling (Baidu Maps API + OCR)**
 
 ---
+## 🛰️ Visual Demonstration of EarthScope Vision
+
+<p align="center">
+  <img src="./sat.jpg" alt="EarthScope Satellite Monitoring AI" width="720"/>
+</p>
+
+<p align="center">
+  <em>Fig: EarthScope-Vision using AI to analyze satellite imagery for environmental monitoring and risk detection.</em>
+</p>
+---
 
 ## Stack
 
